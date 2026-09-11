@@ -6,7 +6,7 @@
 
 I'm a Cape Verdean software developer. I build products that connect people with the things they need: a card game to play with friends, software to run a clinic, or an easier way to find local information.
 
-My work spans web and mobile interfaces, backend services and deployment. These are seven of the products I build.
+My work spans web and mobile interfaces, backend services and deployment. These are eight of the products I build.
 
 ## Selected products
 
@@ -18,6 +18,7 @@ My work spans web and mobile interfaces, backend services and deployment. These 
   <a href="https://kabuverdi.cv/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dock/kabuverdi-dark.svg"><img src="assets/dock/kabuverdi-light.svg" width="80" height="96" alt="Kabu Verdi"></picture></a>
   <a href="https://concurso.cv/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dock/concurso-dark.svg"><img src="assets/dock/concurso-light.svg" width="80" height="96" alt="Concurso.cv"></picture></a>
   <a href="https://fresku-ai.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dock/fresku-ai-dark.svg"><img src="assets/dock/fresku-ai-light.svg" width="80" height="96" alt="Fresku AI"></picture></a>
+  <a href="https://kontrolu.cv/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dock/kontrolu-dark.svg"><img src="assets/dock/kontrolu-light.svg" width="80" height="96" alt="Kontrolu"></picture></a>
 </p>
 
 | Product | What it does |
@@ -29,14 +30,11 @@ My work spans web and mobile interfaces, backend services and deployment. These 
 | **[Kabu Verdi](https://kabuverdi.cv/)** | News, civic information and events from across Cabo Verde. |
 | **[Concurso.cv](https://concurso.cv/)** | Public and private tenders in one place, with search, deadlines and procedure status. |
 | **[Fresku AI](https://fresku-ai.vercel.app/)** | Applied AI across the Atum Fresku products, from healthcare and legislation to news and climate. |
+| **[Kontrolu](https://kontrolu.cv/)** | Field service management with offline reports, photos, signatures and PDF delivery. |
 
-## Behind the products
+## Engineering
 
-- **Games and mobile:** TypeScript, Three.js, Node.js, WebSockets and Capacitor in Spadinha. [Product and technical overview](https://github.com/OAtumFresco/spadinha-showcase).
-- **Clinical software:** React, TypeScript, Java, Spring Boot and PostgreSQL in Kura. [Product and technical overview](https://github.com/OAtumFresco/kura-showcase).
-- **Web platforms:** Next.js and React across my web projects.
-
-The showcase repositories document the products and selected engineering decisions. Application source code remains private.
+I work with TypeScript, React, Next.js, Node.js, Java, Spring Boot and PostgreSQL across web, mobile and backend projects.
 
 ## Let's connect
 

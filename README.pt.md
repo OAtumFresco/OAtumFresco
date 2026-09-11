@@ -6,7 +6,7 @@
 
 Sou um programador cabo-verdiano. Crio produtos que aproximam as pessoas daquilo de que precisam: um jogo de cartas para jogar com amigos, software para gerir uma clínica ou uma forma mais simples de encontrar informação local.
 
-O meu trabalho abrange interfaces web e mobile, serviços de backend e colocação em produção. Estes são sete dos produtos que desenvolvo.
+O meu trabalho abrange interfaces web e mobile, serviços de backend e colocação em produção. Estes são oito dos produtos que desenvolvo.
 
 ## Produtos em destaque
 
@@ -18,6 +18,7 @@ O meu trabalho abrange interfaces web e mobile, serviços de backend e colocaç�
   <a href="https://kabuverdi.cv/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dock/kabuverdi-dark.svg"><img src="assets/dock/kabuverdi-light.svg" width="80" height="96" alt="Kabu Verdi"></picture></a>
   <a href="https://concurso.cv/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dock/concurso-dark.svg"><img src="assets/dock/concurso-light.svg" width="80" height="96" alt="Concurso.cv"></picture></a>
   <a href="https://fresku-ai.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dock/fresku-ai-dark.svg"><img src="assets/dock/fresku-ai-light.svg" width="80" height="96" alt="Fresku AI"></picture></a>
+  <a href="https://kontrolu.cv/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dock/kontrolu-dark.svg"><img src="assets/dock/kontrolu-light.svg" width="80" height="96" alt="Kontrolu"></picture></a>
 </p>
 
 | Produto | O que faz |
@@ -29,14 +30,11 @@ O meu trabalho abrange interfaces web e mobile, serviços de backend e colocaç�
 | **[Kabu Verdi](https://kabuverdi.cv/)** | Notícias, informação cívica e eventos de Cabo Verde. |
 | **[Concurso.cv](https://concurso.cv/)** | Concursos públicos e privados no mesmo lugar, com pesquisa, prazos e estados dos procedimentos. |
 | **[Fresku AI](https://fresku-ai.vercel.app/)** | IA aplicada aos produtos Atum Fresku, da saúde e legislação às notícias e ao clima. |
+| **[Kontrolu](https://kontrolu.cv/)** | Gestão de intervenções técnicas com relatórios offline, fotografias, assinaturas e entrega em PDF. |
 
-## Por dentro dos produtos
+## Engenharia
 
-- **Jogos e mobile:** TypeScript, Three.js, Node.js, WebSockets e Capacitor na Spadinha. [Apresentação do produto e da tecnologia](https://github.com/OAtumFresco/spadinha-showcase/blob/main/README.pt.md).
-- **Software clínico:** React, TypeScript, Java, Spring Boot e PostgreSQL no Kura. [Apresentação do produto e da tecnologia](https://github.com/OAtumFresco/kura-showcase/blob/main/README.pt.md).
-- **Plataformas web:** Next.js e React nos meus projetos web.
-
-Os repositórios de apresentação documentam os produtos e algumas decisões de engenharia. O código das aplicações continua privado.
+Trabalho com TypeScript, React, Next.js, Node.js, Java, Spring Boot e PostgreSQL em projetos web, mobile e backend.
 
 ## Vamos conversar
 
