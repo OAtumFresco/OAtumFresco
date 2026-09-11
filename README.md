@@ -32,7 +32,16 @@ My work spans web and mobile interfaces, backend services and deployment. These 
 | **[Fresku AI](https://fresku-ai.vercel.app/)** | Applied AI across the Atum Fresku products, from healthcare and legislation to news and climate. |
 | **[Kontrolu](https://kontrolu.cv/)** | Field service management with offline reports, photos, signatures and PDF delivery. |
 
-## Engineering
+## Engineering labs
+
+Small, runnable implementations of general engineering problems, with failure experiments and tests.
+
+| Repository | What you can verify |
+| --- | --- |
+| **[Offline Sync Lab](https://github.com/OAtumFresco/offline-sync-lab)** | Persist a browser outbox, recover a lost acknowledgement and prevent duplicate server writes with transactional receipts. |
+| **[Event Replay Lab](https://github.com/OAtumFresco/event-replay-lab)** | Reconnect an SSE subscriber, replay missing events and recover with a snapshot when retained history expires. |
+
+These independent examples include source code, local demos and documentation in English and Portuguese.
 
 I work with TypeScript, React, Next.js, Node.js, Java, Spring Boot and PostgreSQL across web, mobile and backend projects.
 
