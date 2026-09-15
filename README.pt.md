@@ -17,7 +17,7 @@ O meu trabalho abrange interfaces web e mobile, serviços de backend e colocaç�
   <a href="https://azaguas.cv/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dock/azaguas-dark.svg"><img src="assets/dock/azaguas-light.svg" width="80" height="96" alt="Azaguas"></picture></a>
   <a href="https://kabuverdi.cv/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dock/kabuverdi-dark.svg"><img src="assets/dock/kabuverdi-light.svg" width="80" height="96" alt="Kabu Verdi"></picture></a>
   <a href="https://concurso.cv/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dock/concurso-dark.svg"><img src="assets/dock/concurso-light.svg" width="80" height="96" alt="Concurso.cv"></picture></a>
-  <a href="https://fresku-ai.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dock/fresku-ai-dark.svg"><img src="assets/dock/fresku-ai-light.svg" width="80" height="96" alt="Fresku AI"></picture></a>
+  <a href="https://fresku.ratecnologias.cv/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dock/fresku-ai-dark.svg"><img src="assets/dock/fresku-ai-light.svg" width="80" height="96" alt="Fresku AI"></picture></a>
   <a href="https://kontrolu.cv/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dock/kontrolu-dark.svg"><img src="assets/dock/kontrolu-light.svg" width="80" height="96" alt="Kontrolu"></picture></a>
   <a href="https://cooperacao.cv/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dock/cooperacao-dark.svg"><img src="assets/dock/cooperacao-light.svg" width="80" height="96" alt="Cooperação.cv"></picture></a>
 </p>
@@ -30,7 +30,7 @@ O meu trabalho abrange interfaces web e mobile, serviços de backend e colocaç�
 | **[Azaguas](https://azaguas.cv/)** | Meteorologia, condições do mar e alertas ambientais para as ilhas. |
 | **[Kabu Verdi](https://kabuverdi.cv/)** | Notícias, informação cívica e eventos de Cabo Verde. |
 | **[Concurso.cv](https://concurso.cv/)** | Concursos públicos e privados no mesmo lugar, com pesquisa, prazos e estados dos procedimentos. |
-| **[Fresku AI](https://fresku-ai.vercel.app/)** | IA aplicada aos produtos Atum Fresku, da saúde e legislação às notícias e ao clima. |
+| **[Fresku AI](https://fresku.ratecnologias.cv/)** | IA aplicada aos produtos Atum Fresku, da saúde e legislação às notícias e ao clima. |
 | **[Kontrolu](https://kontrolu.cv/)** | Gestão de intervenções técnicas com relatórios offline, fotografias, assinaturas e entrega em PDF. |
 | **[Cooperação.cv](https://cooperacao.cv/)** | Cooperação internacional com Cabo Verde, com globo interativo, projetos por ilha e fontes oficiais rastreáveis. |
 
