@@ -17,6 +17,9 @@ My work spans web and mobile interfaces, backend services and deployment. These 
   <a href="https://azaguas.cv/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dock/azaguas-dark.svg"><img src="assets/dock/azaguas-light.svg" width="80" height="96" alt="Azaguas"></picture></a>
   <a href="https://kabuverdi.cv/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dock/kabuverdi-dark.svg"><img src="assets/dock/kabuverdi-light.svg" width="80" height="96" alt="Kabu Verdi"></picture></a>
   <a href="https://concurso.cv/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dock/concurso-dark.svg"><img src="assets/dock/concurso-light.svg" width="80" height="96" alt="Concurso.cv"></picture></a>
+</p>
+
+<p align="center">
   <a href="https://marcas.cv/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dock/marcas-dark.svg"><img src="assets/dock/marcas-light.svg" width="80" height="96" alt="Marcas.cv"></picture></a>
   <a href="https://assembleia.cv/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dock/assembleia-dark.svg"><img src="assets/dock/assembleia-light.svg" width="80" height="96" alt="Assembleia.cv"></picture></a>
   <a href="https://fresku.ratecnologias.cv/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dock/fresku-ai-dark.svg"><img src="assets/dock/fresku-ai-light.svg" width="80" height="96" alt="Fresku AI"></picture></a>
